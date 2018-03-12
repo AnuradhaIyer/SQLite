@@ -1,0 +1,4 @@
+#Sun Mar 11 20:56:23 PDT 2018
+base.0=C\:\\Users\\tulsi\\AndroidStudioProjects\\SQLITEDEMO\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\9
+path.0=classes.dex
+renamed.0=classes.dex
